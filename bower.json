@@ -1,0 +1,20 @@
+{
+  "name": "pong-demo",
+  "authors": [
+    "Nicola Da Rold <nicola.darold@gmail.com>"
+  ],
+  "description": "Pong demo written in ES6 and Phaser",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^3.16.2"
+  }
+}
